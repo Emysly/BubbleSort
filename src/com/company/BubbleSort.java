@@ -26,7 +26,7 @@ public class BubbleSort {
     }
     public static void main(String[] args) {
 
-        bubbleSort(new int[]{3,60,35,2,45,320,5});//sorting array elements using bubble sort
+        bubbleSort(new int[]{35, 2, 24, 40, 1, 8, 45});//sorting array elements using bubble sort
 
     }
 }
